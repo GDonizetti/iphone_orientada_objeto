@@ -58,7 +58,6 @@ Modelar e implementar um componente `iPhone` com base em três funcionalidades p
 
 > Representando as relações entre a classe `iPhone` e suas interfaces.
 
-[Inserir imagem aqui ou use o link para a versão em Mermaid]
 
 ---
 
@@ -66,4 +65,4 @@ Modelar e implementar um componente `iPhone` com base em três funcionalidades p
 
 1. Clone este repositório:
    ```bash
-   git clone https://https://github.com/GDonizetti/iphone_orientada_objeto/edit/main/README.md
+   git clone https://https://github.com/GDonizetti/iphone_orientada_objeto
